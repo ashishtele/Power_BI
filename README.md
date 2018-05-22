@@ -15,3 +15,4 @@ Power BI dashboards - Collection of Interactive dashboards
 2. Insights and recommendation in Poewer BI 
 3. Blog link: https://ashishtele1992.wordpress.com/2018/04/14/hackthon-3-aureus-analytics/
 
+![aureus bi](https://user-images.githubusercontent.com/14126898/40387088-a2e4f336-5dd9-11e8-8e47-1cc31b1a1a91.PNG)
