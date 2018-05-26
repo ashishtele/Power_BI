@@ -16,3 +16,9 @@ Power BI dashboards - Collection of Interactive dashboards
 3. Blog link: https://ashishtele1992.wordpress.com/2018/04/14/hackthon-3-aureus-analytics/
 
 ![aureus bi](https://user-images.githubusercontent.com/14126898/40387088-a2e4f336-5dd9-11e8-8e47-1cc31b1a1a91.PNG)
+
+## Temperature Variation in India
+
+1. Annual temperature (1901 - 2014)
+2. Blog link: https://ashishtele1992.wordpress.com/2015/09/23/temperature-variation-in-india/
+
