@@ -22,3 +22,5 @@ Power BI dashboards - Collection of Interactive dashboards
 1. Annual temperature (1901 - 2014)
 2. Blog link: https://ashishtele1992.wordpress.com/2015/09/23/temperature-variation-in-india/
 
+![temp_series](https://user-images.githubusercontent.com/14126898/40570598-6737d640-605a-11e8-94a1-cfbe6bd397d0.PNG)
+
