@@ -30,3 +30,5 @@ Power BI dashboards - Collection of Interactive dashboards
 2. A general purpose dashboard to increase the awareness and accessibility of the data
 3. Blog link: https://ashishtele1992.wordpress.com/2015/09/22/blood-bank-directory/
 
+![blood bank](https://user-images.githubusercontent.com/14126898/40578410-7b28e090-60e1-11e8-8aad-d0713b413e91.PNG)
+
