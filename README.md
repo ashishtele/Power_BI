@@ -32,3 +32,8 @@ Power BI dashboards - Collection of Interactive dashboards
 
 ![blood bank](https://user-images.githubusercontent.com/14126898/40578410-7b28e090-60e1-11e8-8aad-d0713b413e91.PNG)
 
+## Educational Institutes in USA
+
+1. State and City filters
+2. Bing map to track the location
+3. Blog link: 
