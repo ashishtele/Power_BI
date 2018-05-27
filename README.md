@@ -36,4 +36,4 @@ Power BI dashboards - Collection of Interactive dashboards
 
 1. State and City filters
 2. Bing map to track the location
-3. Blog link: 
+3. Blog link: https://ashishtele1992.wordpress.com/2015/09/18/regional-distribution-of-institutes-in-usa/
