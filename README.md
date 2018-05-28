@@ -9,8 +9,7 @@ Power BI dashboards - Collection of Interactive dashboards
 3. Blog link: https://ashishtele1992.wordpress.com/2016/07/24/interactive-resume/
 4. Blog written: 07/2016
 
-
-
+![resume](https://user-images.githubusercontent.com/14126898/40626916-94a68a96-6289-11e8-9658-6cdf89272877.PNG)
 
 
 ## The trend of millennials
