@@ -11,6 +11,13 @@ Power BI dashboards - Collection of Interactive dashboards
 
 ![resume](https://user-images.githubusercontent.com/14126898/40626916-94a68a96-6289-11e8-9658-6cdf89272877.PNG)
 
+## Salary Search Dashboard
+
+1. Interactive dashboard in Power BI with search filter
+2. Data extract: Data Scientist(2018)
+3. Acknowledgement: https://h1bdata.info/
+4. Blog link: https://ashishtele1992.wordpress.com/be-updated-with-the-latest-salary-trends-using-python-and-power-bi/
+
 ## Unidentified Flying Objects (USA)
 
 1. Kaggle dataset - UFO Sightings
