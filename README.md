@@ -18,6 +18,8 @@ Power BI dashboards - Collection of Interactive dashboards
 3. Acknowledgement: https://h1bdata.info/
 4. Blog link: https://ashishtele1992.wordpress.com/be-updated-with-the-latest-salary-trends-using-python-and-power-bi/
 
+![h1b](https://user-images.githubusercontent.com/14126898/50360832-66559f80-052f-11e9-9b87-57c04c5ccf24.PNG)
+
 ## Unidentified Flying Objects (USA)
 
 1. Kaggle dataset - UFO Sightings
