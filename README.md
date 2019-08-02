@@ -73,3 +73,9 @@ Power BI dashboards - Collection of Interactive dashboards
 
 ![institutes_usa](https://user-images.githubusercontent.com/14126898/40590636-f00cf90c-61cf-11e8-8996-c3cc8e30db08.PNG)
 
+## Hotel Data Analysis
+
+1. City and other filters
+2. Bing map for location
+3. Data Source: https://www.kaggle.com/payel58/dataset-for-hotels-in-indian-cities
+
