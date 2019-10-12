@@ -3,7 +3,7 @@ Power BI dashboards - Collection of Interactive dashboards (Updated)
 
 ## Continuous Innovation
 
-1. Poster from my idea to bring in and implement the Power BI solution 
+1. Poster from my idea to bring in and implement the Power BI solution as a part of continuous solution
 
 ![WhatsApp Image 2019-10-08 at 8 04 58 PM](https://user-images.githubusercontent.com/14126898/66442083-69127a00-ea07-11e9-8c0e-93760ae21d80.jpeg)
 
