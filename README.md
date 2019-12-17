@@ -7,6 +7,15 @@ Power BI dashboards - Collection of Interactive dashboards (Updated)
 
 ![WhatsApp Image 2019-10-08 at 8 04 58 PM](https://user-images.githubusercontent.com/14126898/66442083-69127a00-ea07-11e9-8c0e-93760ae21d80.jpeg)
 
+## Groundwater Crisis
+
+1. Interactive dashboard in Power BI.
+2. Acknowledgement: https://data.gov.in/
+3. Data range: till March 2013
+4. Blog Link: https://ashishtele1992.wordpress.com/2019/12/17/the-ground-water-crisis-in-india/
+
+![center]()
+
 ## Interactive Resume
 
 1. Interactive resume in Poewer BI
