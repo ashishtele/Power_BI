@@ -14,7 +14,7 @@ Power BI dashboards - Collection of Interactive dashboards (Updated)
 3. Data range: till March 2013
 4. Blog Link: https://ashishtele1992.wordpress.com/2019/12/17/the-ground-water-crisis-in-india/
 
-![center]()
+![gw7](https://user-images.githubusercontent.com/14126898/70957701-f1834b80-2044-11ea-9d5b-f6bb97eb7b96.PNG)
 
 ## Interactive Resume
 
