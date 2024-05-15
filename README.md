@@ -1,4 +1,4 @@
-# Power_BI
+# Power BI
 Power BI dashboards - Collection of Interactive dashboards (Updated)
 
 ## Continuous Innovation
