@@ -1,5 +1,5 @@
 # Power BI
-Power BI dashboards - Collection of Interactive dashboards (Updated)
+Power BI dashboards - Collection of Interactive dashboards
 
 ## Continuous Innovation
 
